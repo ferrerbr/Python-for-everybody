@@ -1,1 +1,1 @@
-print("hola , estoy aprendiendo a usara git ")
+print("hola , ya se usar comandos basicos de git ")
