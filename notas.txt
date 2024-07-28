@@ -1,0 +1,6 @@
+$ git log
+$ git checkout NOMBRE DEL ARCHIVO
+$ git reset
+$ git log --graph
+$ git log --graph --pretty=oneline
+$ git log --graph --decorate --all --oneline
