@@ -1,1 +1,1 @@
-print("es un archivo muestra para git 2 ")
+print("es un archivo muestra para git v2 ")
