@@ -1,6 +1,14 @@
-$ git log
-$ git checkout NOMBRE DEL ARCHIVO
-$ git reset
+$ git log(historial de cambios)
+$ git checkout NOMBRE DEL ARCHIVO( hace un regreso de los archivos a como estan en el ultimos commit en el repositorio)
+$ git reset( me indica que ficheros has sido modificados pero que aun no se han echo commit )
 $ git log --graph
 $ git log --graph --pretty=oneline
 $ git log --graph --decorate --all --oneline
+
+$ git diff (nos muestra en sonsola todos los cambios que se han generado en cad una de las lineas de los ficheros )
+
+$ git reset --hard 9dcabd3 (se hace un regreso al id de commit indicado)
+
+$ git reflog (es un historial completo de todos los cambios en y commits)
+
+$ git tag(etiquetas que se hacen en commits en momentos importantes)
