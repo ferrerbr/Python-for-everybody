@@ -11,4 +11,22 @@ $ git reset --hard 9dcabd3 (se hace un regreso al id de commit indicado)
 
 $ git reflog (es un historial completo de todos los cambios en y commits)
 
+
+$ git merge -nombre de la rama -(escribimos el nombre de la rama con el que queremos unir los cambios )
+
 $ git tag(etiquetas que se hacen en commits en momentos importantes)
+
+$ git stash  (guardamos los cambios en una especie de nube pero sin hacer momit momentaneamente se eliminan esos cambios hasta el untimop commit para despues recuperarlos  y seguir trabajando en el codigo:)
+
+$ git stash list( nos muestra la lista de stash que hemos realizado)
+
+$ git stash drop (elimina todo loo que tengamos en la lista de stash)
+
+$git fetch ( descarga el historial de cambios en git hub pero no descarga los cambios)
+
+
+$ git merge (descarga los cambios sin el historial de donde indiques )
+
+$ git pull(descarga el historial y los cambios de hithub)
+
+
